@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1070069241989-gfl81fb3v1rujdam93f2dooltjhba2rj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1070069241989-gfl81fb3v1rujdam93f2dooltjhba2rj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvJRrQSO0aHCLHYmQuSQPEXQMK5uW-htM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1070069241989</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kafil</string>
+	<key>PROJECT_ID</key>
+	<string>kafil-e32f1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kafil-e32f1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1070069241989:ios:a91ec2ae1f8b57ca4cf1ec</string>
+	<key>DATABASE_URL</key>
+	<string>https://kafil-e32f1-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
